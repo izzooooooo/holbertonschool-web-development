@@ -1,18 +1,23 @@
-# HTML Advanced
+# HTML Advanced - Techium Web Page
 
-This project focuses on building a webpage from scratch using only semantic HTML.
-The goal is to reproduce a design provided in Figma while following best practices
-for HTML structure, accessibility, and clean code organization. No CSS or styling
-is used at this stage, allowing the project to focus entirely on the document structure.
+This project involves building a fully semantic HTML webpage from scratch based on a Figma designer file.
+The focus is on pure HTML structure only — no CSS, no styling — just clean, semantic HTML that correctly
+represents the layout and content of a modern digital agency website called Techium.
 
-## Project Preview
+The page includes multiple sections: a header with navigation, a hero banner, a quote section, a tutorial
+videos section, a free membership section, an FAQ section, and a footer. Each section is built using
+appropriate HTML5 semantic elements to ensure accessibility and proper document structure.
 
-![Project Preview](https://via.placeholder.com/800x400.png)
+![Techium Web Page Preview](https://i.imgur.com/placeholder-techium.png)
 
-## Objectives
+## Project Structure
 
-* Practice semantic HTML.
-* Structure a webpage based on a Figma design.
-* Prepare the project for future CSS styling.
-* Follow modern web development standards.
+- `index.html` — Main HTML file containing the full page structure
+- `task_0/README.md` — Project description and objectives
 
+## Learning Objectives
+
+- Understand what HTML is and how to create an HTML page from a wireframe
+- Know what a markup language is and how the DOM works
+- Understand the purpose of each HTML tag and attribute
+- Build a W3C compliant HTML page from a Figma design
