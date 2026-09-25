@@ -1,0 +1,8 @@
+:root {
+  --purple: #C271FF;
+  --black: #071629;
+  --white: #ffffff;
+  --dark: rgba(7, 22, 41, 0.5);
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: sans-serif; }
